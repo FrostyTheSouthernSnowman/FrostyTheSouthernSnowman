@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @FrostyTheSouthernSnowman
-- 👀 I’m interested in ... Various programing topics
-- 🌱 I’m currently learning ... vue, django, tensorflow
-- 💞️ I’m looking to collaborate on ... vuejs, and some personal projects
-- 📫 How to reach me ... email
-
-<!---
-FrostyTheSouthernSnowman/FrostyTheSouthernSnowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... Web Development (specifically JavaScript Libraries and API design (e.g. REST and GRAPHQL)) and AI/ML
+- 🌱 I’m currently learning ... golang, graphql, strawberry-graphql (python graphql library) with FastAPI, and Pytorch
+- 💞️ I’m looking to collaborate on ... some personal projects and anything/anyone looking for some help
+- 📫 How to reach me ... email or discord. My discord is "Yosi F#2733"
