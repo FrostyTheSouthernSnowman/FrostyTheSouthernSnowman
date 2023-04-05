@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FrostyTheSouthernSnowman
-- 👀 I’m interested in ... Web Development (specifically JavaScript Libraries and API design (e.g. REST and GRAPHQL)) and AI/ML
-- 🌱 I’m currently learning ... golang, graphql, strawberry-graphql (python graphql library) with FastAPI, and Pytorch
+- 👋 Hi, I’m Yosef Frost or @FrostyTheSouthernSnowman
+- 👀 I’m interested in ... Web Development (specifically JavaScript Libraries and API design (e.g. REST and GRAPHQL)), AI/ML, robotics, and space
+- 🌱 I’m currently learning ... Rust, SolidJS, MongoDB, and CAD
 - 💞️ I’m looking to collaborate on ... some personal projects and anything/anyone looking for some help
 - 📫 How to reach me ... email or discord. My discord is "Yosi F#2733"
