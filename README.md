@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yosef Frost or @FrostyTheSouthernSnowman
-- 👀 I’m interested in ... Web Development (specifically JavaScript Libraries and API design (e.g. REST and GRAPHQL)), AI/ML, robotics, and space
-- 🌱 I’m currently learning ... Rust, SolidJS, MongoDB, and CAD
-- 💞️ I’m looking to collaborate on ... some personal projects and anything/anyone looking for some help
+- 👀 I’m interested in ... AI/ML, robotics, and space
+- 🌱 I’m currently learning ... Tinygrad, Mojo, AI, and Arduino
+- 💞️ I’m looking to collaborate on ... Projects I feel will help push AI forward or build my AI skills
 - 📫 How to reach me ... email or discord. My discord is "Yosi F#2733"
