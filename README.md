@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Yosef Frost</h1>
-  <p>Welcome to my GitHub profile!</p>
+  <p>We are putting way to much money towards developing algorithms that spit out numbers with decode into text that we then interpret as thoughts. Instead, money should be spent on algorithms that generate thoughts encoded as numbers. Not human thoughts, but machine "thought atoms" - Myself</p>
 </div>
 
 ## About Me
