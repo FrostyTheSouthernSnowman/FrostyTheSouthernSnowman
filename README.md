@@ -1,14 +1,13 @@
 <div align="center">
   <h1>👋 Hi there, I'm Yosef Frost</h1>
-  <p>We are putting far to much money towards developing algorithms that spit out numbers with decode into text that we then interpret as thoughts. Instead, money should be spent on algorithms that generate thoughts encoded as numbers. Not human thoughts, but machine "thought atoms" - Myself</p>
+  <p>Instead developing algorithms that spit out numbers with decode into text that we then interpret as thoughts, we should develop algorithms that generate useful latent-space representations of thoughts - Myself</p>
 </div>
 
 ## About Me
 
 - 🤖 I'm passionate about AI/ML, robotics, and space exploration.
-- 🌱 Currently learning and experimenting with Tinygrad, Mojo, AI, and Arduino.
+- 🌱 Currently learning and experimenting with 3D printing, mojo, rust, math, and embedded systems.
 - 💡 I'm always on the lookout for exciting projects that can advance the field of AI and enhance my skills.
-- 🚀 Exploring the universe, one curiosity at a time.
 
 P.S. Currently in high school and will happilly consider any opportunities for internship, especially in AI or aerospace.
 
@@ -16,14 +15,15 @@ P.S. Currently in high school and will happilly consider any opportunities for i
 
 Here are some of the project(s) I'm currently working on:
 
-- [Tinygrad](https://github.com/tinygrad/tinygrad): Tinygrad is a small neural network library created by George Hotz and the Tinycorp with the goal of simplifying the requirements for chip makes to port neural networks to new hardware
-- I am developing a system to move ferromagnetic objects in three degrees of freedom for use in microgravity applications. (Arduino based, no moving parts)
-- I am also working on AGI, although currently still in planning phase.
+- Building/building with [CrewAI](https://github.com/joaomdmoura/crewAI)
+- Working on a 3D printed humanoid
+- Working slowly on machine reasoning (a.k.a. AGI)
 
 ## Let's Connect
 
 - 📫 Feel free to reach out to me via email at [yosi_frost@icloud.com](mailto:yosi_frost@icloud.com).
 - 💬 You can also find me on Discord: Yosi F#2733
+- 📞 Message me at: 941-706-8270
 
 ## Stats
 
@@ -36,7 +36,7 @@ Note that it is skewed towards HTML due to some node projects that exported a cr
 ## Follow Me
 
 - 🌐 Check out my blog: [https://medium.com/@yosi_frost](https://medium.com/@yosi_frost)
-- 📞 Message me at: 941-706-8270
+- 𝕩 Check out my 𝕩 https://twitter.com/Yosef_Frost
 
 <div align="center">
   <p>Thanks for stopping by! Let's collaborate and innovate together.</p>
