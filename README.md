@@ -30,7 +30,6 @@ Here are some of the project(s) I'm currently working on:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrostyTheSouthernSnowman&show_icons=true&theme=dark)
 
 ## Top Languages
-Note that it is skewed towards HTML due to some node projects that exported a crazy ton of html.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostyTheSouthernSnowman&layout=compact&theme=dark)
 
 ## Follow Me
