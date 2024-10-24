@@ -1,11 +1,10 @@
 <div align="center">
   <h1>👋 Hi there, I'm Yosef Frost</h1>
-  <p>Instead developing algorithms that spit out numbers with decode into text that we then interpret as thoughts, we should develop algorithms that generate useful latent-space representations of thoughts - Myself</p>
 </div>
 
 ## About Me
 
-- 🤖 I'm passionate about AI/ML, robotics, and space exploration.
+- 🤖 I'm passionate about AI/ML, robotics, space exploration, and thermodynamic compute.
 - 🌱 Currently learning and experimenting with 3D printing, mojo, rust, math, and embedded systems.
 - 💡 I'm always on the lookout for exciting projects that can advance the field of AI and enhance my skills.
 
@@ -15,9 +14,8 @@ P.S. Currently in high school and will happilly consider any opportunities for i
 
 Here are some of the project(s) I'm currently working on:
 
-- Building/building with [CrewAI](https://github.com/joaomdmoura/crewAI)
-- Working on a 3D printed humanoid
-- Working slowly on machine reasoning (a.k.a. AGI)
+- [Learning about the foundations of ML from Andrej Karpathy and implementing it in zig](https://github.com/FrostyTheSouthernSnowman/zigrad)
+- Cooking up a codegen tool inspired by the Replit Agent
 
 ## Let's Connect
 
@@ -34,9 +32,8 @@ Here are some of the project(s) I'm currently working on:
 
 ## Follow Me
 
-- 🌐 Check out my blog: [https://medium.com/@yosi_frost](https://medium.com/@yosi_frost)
-- 𝕩 Check out my 𝕩 https://twitter.com/Yosef_Frost
+Check out my 𝕩 https://twitter.com/Yosef_Frost
 
 <div align="center">
-  <p>Thanks for stopping by! Let's collaborate and innovate together.</p>
+  <p>Thanks for stopping by! Let's collaborate, innovate, and accelerate together.</p>
 </div>
