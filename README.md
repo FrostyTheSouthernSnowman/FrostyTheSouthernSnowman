@@ -15,7 +15,7 @@ P.S. Currently in high school and will happilly consider any opportunities for i
 Here are some of the project(s) I'm currently working on:
 
 - [Learning about the foundations of ML from Andrej Karpathy and implementing it in zig](https://github.com/FrostyTheSouthernSnowman/zigrad)
-- Cooking up a codegen tool inspired by the Replit Agent
+- Working at [Pocketflow](pocketflow.ai) creating comprehensive tooling for building, testing, and deploying AI agents.
 
 ## Let's Connect
 
